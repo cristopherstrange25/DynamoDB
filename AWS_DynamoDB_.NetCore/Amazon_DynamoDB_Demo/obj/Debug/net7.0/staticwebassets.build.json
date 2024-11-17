@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oogRkVlNsU0I2dRAcwNn3lKavCr/GDRvfCDns2p8DRw=",
+  "Source": "Amazon_DynamoDB_Demo",
+  "BasePath": "_content/Amazon_DynamoDB_Demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

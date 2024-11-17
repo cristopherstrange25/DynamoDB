@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "dVy37OtgSZux8DVvBSfLjN4vzPwwUX38bOge6yPShYne7dAq1htI/+5zeknQZNVOXZqNxVREMJfBGSLD8SQl/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\syed.shamail\\source\\repos\\Amazon_DynamoDB_Demo\\Amazon_DynamoDB_Demo\\Amazon_DynamoDB_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\syed.shamail\\.nuget\\packages\\awssdk.core\\3.7.106.10\\awssdk.core.3.7.106.10.nupkg.sha512",
+    "C:\\Users\\syed.shamail\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.102.17\\awssdk.dynamodbv2.3.7.102.17.nupkg.sha512",
+    "C:\\Users\\syed.shamail\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.2\\microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
+    "C:\\Users\\syed.shamail\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\syed.shamail\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\syed.shamail\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\syed.shamail\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\syed.shamail\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\syed.shamail\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
